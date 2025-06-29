@@ -40,10 +40,10 @@
 - Feel free to propse ideas, techniques, or tools. Do you miss something? Let us know!
 
 ## Other Tools & Related Repos
-- [Local-RAG-Prototype](https://github.com/IntrinsicalAI/Local-RAG-Prototype)
-- [RepoGPT](https://github.com/MrCabss69/RepoGPT)
-- [Ðata Analysis and OSINT](https://github.com/MrCabss69/Sandworm-Spain-04-2025)
-- [MCP-local-agent](https://github.com/Intrinsical-AI/MCP-local-agent)
+- [Local-RAG-Prototype](https://github.com/IntrinsicalAI/Local-RAG-Prototype): Local RAG prototype with a ports & adapted architecure, ready to plug in / apply custom changes!
+- [RepoGPT](https://github.com/MrCabss69/RepoGPT): code repository analysis tool. Creates summaries for largue repos, in different formats / structures. Usefull as code-structure compressor for LLMs. Support jq syntax + filters / abstraction levels for advance queries.
+- [Ðata Analysis and OSINT](https://github.com/MrCabss69/Sandworm-Spain-04-2025): an example on how to use efficiently LLMs on a research project - OSINT, data analysis, data scraping.
+- [MCP-local-agent](https://github.com/Intrinsical-AI/MCP-local-agent): a local example for an MCP based agent - added custom tools to a Gemini3:4b model used via Ollama local API. 
 
 
 ## License
