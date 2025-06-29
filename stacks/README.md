@@ -9,11 +9,10 @@ This directory aggregates libraries, frameworks, and best-practice stacks that h
 | Data Analysis | [data-analysis.md](./data-analysis.md) |
 | Machine Learning | [machine-learning.md](./machine-learning.md) |
 | Software Architectures | [architectures.md](./architectures.md) |
-| IDEs & Local Environments | [ide-env.md](./ide-env.md) |
+| IDEs - Code Review & Maintainability | [ide-code-maintenance.md](./ide-code-maintenance.md) |
 | Retrieval-Augmented Generation (RAG) | [rag.md](./rag.md) |
 | Model Context Protocol (MCP) | [mcp.md](./mcp.md) |
 | UI & Product Delivery | [ui-delivery.md](./ui-delivery.md) |
-| Code Review & Maintainability | [maintenance.md](./maintenance.md) |
 | Browser / Research Agents | [browser-agents.md](./browser-agents.md) |
 | APIs | [apis.md](./apis.md) |
 | Reinforcement Learning | [rl.md](./rl.md) |
