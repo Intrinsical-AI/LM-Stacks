@@ -18,11 +18,7 @@
 
 ## 🚀 Getting started
 
-1. Clone the repo and create a Python virtual environment (if you haven’t already):
-
-   ```bash
-   python -m venv .venv && source .venv/bin/activate
-   ```
+1. Clone the repo and create a Python virtual environment (optional, but usefull in general if you haven’t try it already)
 2. Explore the folders above to find ready-to-use templates, stacks, or techniques relevant to your project.
 3. Contribute back! Feel free to open pull-requests with new templates, methodologies, or improvements.
 
