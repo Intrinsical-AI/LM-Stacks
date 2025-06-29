@@ -2,8 +2,7 @@
 
 > Structured repository to docs, techniques, patterns, experiments, and even some prompt about / for Large Language Models (LLMs) - Software Development Oriented
 
-
-> ***What you will find here***
+***What you will find here***
 
 * **Prompting templates** – reusable prompt skeletons designed for chats, code generation, and evaluation.
 * **Techniques** – step-by-step guides that explain how to combine LLMs and humans effectively (TDD, Multi-Agent, Live-RAG …).
@@ -39,7 +38,7 @@
 - [Ðata Analysis and OSINT](https://github.com/MrCabss69/Sandworm-Spain-04-2025): an example on how to use efficiently LLMs on a research project - OSINT, data analysis, data scraping.
 - [MCP-local-agent](https://github.com/Intrinsical-AI/MCP-local-agent): a local example for an MCP based agent - added custom tools to a Gemini3:4b model used via Ollama local API. 
 - [Open DeepResearch](https://github.com/btahir/open-deep-research): Open source alternative to Deep Research. [Gemini Oriented]
-- [Elder-Plini (Real Prompt Engineering)](https://github.com/elder-plinius) - L1B3RT4S, CL4R1T4S
+- [Real Prompt Engineering: Elder-Plinius](https://github.com/elder-plinius) - L1B3RT4S, CL4R1T4S..
 
 
 
